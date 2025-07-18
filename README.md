@@ -19,7 +19,7 @@
 ### Currently:
 - 💚 Part of the [Vuetify](https://vuetifyjs.com) team
 - 🚀 Creator of [Vuetify Studio](https://studio.vuetifyjs.com/)
-- ⚡️ Active contributor to the Nuxt ecosystem
+- ⚡️ Active contributor to the Vue ecosystem
 - 🎨 Obsessed with creating delightful developer experiences
 
 ### GitHub Stats
