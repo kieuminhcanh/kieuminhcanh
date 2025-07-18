@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <img width="1500" height="500" alt="Ken Kieu" src="https://github.com/user-attachments/assets/4f6af1c6-aa7c-4a95-b313-3d88b76aecfc" />
+    
+  *"Simplifying Complexity, Building Solutions"*
+</div>
 
-<!--
-**kieuminhcanh/kieuminhcanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://twitter.com/kieuminhcanh">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kieuminhcanh">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kieuminhcanh.github.io">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Currently:
+- 💚 Part of the [Vuetify](https://vuetifyjs.com) team
+- 🚀 Creator of [Vuetify Studio](https://studio.vuetifyjs.com/)
+- ⚡️ Active contributor to the Nuxt ecosystem
+- 🎨 Obsessed with creating delightful developer experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=kieuminhcanh&theme=dark&hide_border=true&background=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kieuminhcanh&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&bg_color=000000" />
+</div>
