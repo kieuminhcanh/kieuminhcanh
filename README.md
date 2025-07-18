@@ -26,5 +26,4 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=kieuminhcanh&theme=dark&hide_border=true&background=000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kieuminhcanh&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&bg_color=000000" />
 </div>
