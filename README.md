@@ -1,3 +1,9 @@
+<!--
+  NOTE: This is the upgraded README for the profile repo `kieuminhcanh/kieuminhcanh`.
+  Copy everything BELOW this comment block and paste it over that repo's README.md.
+  (This file lives in the site repo for reference only — it is not deployed.)
+-->
+
 <div align="center">
   <img width="1500" height="500" alt="Ken Kieu" src="https://github.com/user-attachments/assets/4f6af1c6-aa7c-4a95-b313-3d88b76aecfc" />
 
@@ -20,7 +26,7 @@
 
 ### 👋 About me
 
-Full-stack Developer với **18+ năm** kinh nghiệm xây dựng sản phẩm web — từ frontend, backend đến hạ tầng và tự động hoá. Biến những bài toán phức tạp thành sản phẩm chạy ổn định, dễ bảo trì và mang lại giá trị thực.
+Full-stack Developer with **18+ years** of experience building web products — from frontend and backend to infrastructure and automation. I turn complex problems into products that run reliably, stay maintainable, and deliver real value.
 
 ### 🚀 Currently
 
@@ -48,9 +54,9 @@ Full-stack Developer với **18+ năm** kinh nghiệm xây dựng sản phẩm w
 
 | Project | Description | |
 | --- | --- | --- |
-| **Vuetify Studio** | Công cụ thiết kế giao diện cho hệ sinh thái Vuetify | [↗](https://studio.vuetifyjs.com/) |
-| **Saturn Cloud Dashboard** | Dashboard quản trị cho nền tảng Saturn Cloud | |
-| **Typing Translate AI** | Tiện ích Chrome dịch văn bản ngay khi gõ, dùng Google Gemini | [↗](https://chromewebstore.google.com/detail/mdbpmkfbjjmhckennjmcfjjkggejgkdn) |
+| **Vuetify Studio** | UI design tool for the Vuetify ecosystem | [↗](https://studio.vuetifyjs.com/) |
+| **Saturn Cloud Dashboard** | Admin dashboard for the Saturn Cloud platform | |
+| **Typing Translate AI** | Chrome extension that translates text as you type, powered by Google Gemini | [↗](https://chromewebstore.google.com/detail/mdbpmkfbjjmhckennjmcfjjkggejgkdn) |
 
 ### 📊 GitHub Stats
 
